@@ -20,7 +20,8 @@
     "**/*.ts",
     "**/*.tsx",
     "components/layout.jsx",
-    "pages/index.jsx"
+    "pages/index.jsx",
+    "pages/api/hello.jsx"
   ],
   "exclude": ["node_modules"]
 }
